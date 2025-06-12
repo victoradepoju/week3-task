@@ -337,5 +337,5 @@ Create the file: `tests/auth.spec.ext` (e.g., `tests/auth.spec.ts` for TypeScrip
 
 ### **Deadline**
 
-**Sunday, 13th June 2025 at 11:59 PM GMT**
+**Friday, 13th June 2025 at 11:59 PM GMT**
 *Late submissions will not be accepted.*
